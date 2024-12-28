@@ -1,0 +1,16 @@
+{
+    "name": "Bill Payment Organizer",
+    "short_name": "Bill Organizer",
+    "start_url": "/organizer.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#28a745",
+    "icons": [
+      {
+        "src": "1200x630wa.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
